@@ -1,0 +1,23 @@
+H:\Visual Studio 2005\Projects\Connect4\Connect4\bin\Debug\Connect4.exe
+H:\Visual Studio 2005\Projects\Connect4\Connect4\bin\Debug\Connect4.pdb
+H:\Visual Studio 2005\Projects\Connect4\Connect4\bin\Debug\Connect4.xml
+H:\Visual Studio 2005\Projects\Connect4\Connect4\obj\Debug\ResolveAssemblyReference.cache
+H:\Visual Studio 2005\Projects\Connect4\Connect4\obj\Debug\Connect4.Connect4.resources
+H:\Visual Studio 2005\Projects\Connect4\Connect4\obj\Debug\Connect4.Resources.resources
+H:\Visual Studio 2005\Projects\Connect4\Connect4\obj\Debug\Connect4.vbproj.GenerateResource.Cache
+H:\Visual Studio 2005\Projects\Connect4\Connect4\obj\Debug\Connect4.exe
+H:\Visual Studio 2005\Projects\Connect4\Connect4\obj\Debug\Connect4.xml
+H:\Visual Studio 2005\Projects\Connect4\Connect4\obj\Debug\Connect4.pdb
+G:\Programs\Connect4\Connect4\obj\Debug\Connect4.exe
+G:\Programs\Connect4\Connect4\obj\Debug\Connect4.xml
+G:\Programs\Connect4\Connect4\obj\Debug\Connect4.pdb
+G:\Programs\Connect4\Connect4\bin\Debug\Connect4.exe
+G:\Programs\Connect4\Connect4\bin\Debug\Connect4.pdb
+G:\Programs\Connect4\Connect4\bin\Debug\Connect4.xml
+G:\Programs\Connect4\Connect4\obj\Debug\ResolveAssemblyReference.cache
+G:\Programs\Connect4\Connect4\obj\Debug\Connect4.Connect4.resources
+G:\Programs\Connect4\Connect4\obj\Debug\Connect4.How_To_Play.resources
+G:\Programs\Connect4\Connect4\obj\Debug\Connect4.load.resources
+G:\Programs\Connect4\Connect4\obj\Debug\Connect4.Resources.resources
+G:\Programs\Connect4\Connect4\obj\Debug\Connect4.SplashScreen1.resources
+G:\Programs\Connect4\Connect4\obj\Debug\Connect4.vbproj.GenerateResource.Cache
